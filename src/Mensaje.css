@@ -1,0 +1,9 @@
+.msj {
+    text-align: justify;
+    padding-right: 6em;
+    padding-left: 4em;
+}
+.msj-p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
